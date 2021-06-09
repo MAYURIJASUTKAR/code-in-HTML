@@ -1,0 +1,4 @@
+<a href="path of the file which is open after clicking">word which we have to clickable</a>;;;;;;;;;;;;;anchor tag
+<img src="path of the image where it store.extension name of image">;;;;image tag
+<img src="path of the image where it store.extension name of image  width="500" height="600"  alt="Girl with a jacket">:;;;;image tag attribute
+<p style="color:red; style="color:red; title='J "S" N'>This is a red paragraph.</p>;;;paragraph tag and attribute
